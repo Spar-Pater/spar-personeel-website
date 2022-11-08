@@ -12,10 +12,10 @@ tags:
 ---
 | Dag | Leverancier | Temp | tht OK | verpakking OK | Actie bij afwijking | Controle door |
 |:---|:---|:---|:---|:---|:---|:---|
-| Monday | Spar-Diepvries | -20.8°C | [x] | [x] | | DPater |
-| Monday | Spar-KW | 4.8°C | [x] | [x] | | DPater |
-| Monday | Spar-Vers | 1.4°C | [x] | [x] | | DPater |
-| Tuesday | Weidenaar | 0.0°C | [x] | [x] | | DPater |
+| Monday | Spar-Diepvries | -20.8°C | &check; | &check; | | DPater |
+| Monday | Spar-KW | 4.8°C | &check; | &check; | | DPater |
+| Monday | Spar-Vers | 1.4°C | &check; | &check; | | DPater |
+| Tuesday | Weidenaar | 0.0°C | &check; | &check; | | DPater |
 
 ## Opmerkingen
 
