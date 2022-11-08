@@ -1,0 +1,30 @@
+---
+title: 'Ontvangst goederen 35 jaar 2022'
+date: 2022-09-04
+description: 'Ontvangst logboek'
+categories:
+    - 'HACCP'
+tags:
+    - '2022'
+    - '35'
+    - '202235'
+    - 'Ontvangst'
+---
+| Dag | Leverancier | Temp | tht OK | verpakking OK | Actie bij afwijking | Controle door |
+|:---|:---|:---|:---|:---|:---|:---|
+| Monday | Spar-Diepvries | -20.8°C | &check; | &check; | | DPater |
+| Monday | Spar-KW | 3.8°C | &check; | &check; | | DPater |
+| Monday | Spar-Vers | 1.9°C | &check; | &check; | | DPater |
+| Tuesday | Weidenaar | 0.7°C | &check; | &check; | | DPater |
+| Wednesday | Spar-Diepvries | -20.6°C | &check; | &check; | | WPater |
+| Wednesday | Spar-KW | 4.9°C | &check; | &check; | | WPater |
+| Wednesday | Spar-Vers | 2.0°C | &check; | &check; | | WPater |
+| Friday | Drents-eitje | 4.0°C | &check; | &check; | | WPater |
+| Friday | Huls | 2.8°C | &check; | &check; | | WPater |
+| Friday | Spar-Diepvries | -20.1°C | &check; | &check; | | WPater |
+| Friday | Spar-KW | 4.4°C | &check; | &check; | | WPater |
+| Friday | Spar-Vers | 0.7°C | &check; | &check; | | WPater |
+
+## Opmerkingen
+
+
