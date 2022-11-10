@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 45 jaar 2022'
-date: 2022-11-09
+date: 2022-11-10
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
