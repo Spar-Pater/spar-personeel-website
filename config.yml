@@ -6,8 +6,8 @@ author: Dennis Pater
 theme: hugo-flex
 
 params:
-  color: teal           # Any color in CSS syntax
-  width: 42rem          # Any length in CSS syntax
+  color: #007a33           # Any color in CSS syntax
+  width: 64rem          # Any length in CSS syntax
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
     Except where otherwise noted, content on this site is licensed under a &#32;
     <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative
