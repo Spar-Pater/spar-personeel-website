@@ -10,7 +10,7 @@ tags:
     - 'Bedrijfshulpverlener'
 ---
 
-In 2022 hebben de volgende candidaten hun certificaat bedrijfshulpverlener behaald; W. Pater, D. Pater, M. van Goor, B. van Draanen.
+In 2022 hebben de volgende candidaten hun certificaat bedrijfshulpverlener behaald: W. Pater, D. Pater, M. van Goor, B. van Draanen.
 
 *Van Harte gefeliciteerd*
 
