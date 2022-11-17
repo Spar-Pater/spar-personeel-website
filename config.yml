@@ -6,7 +6,7 @@ author: Dennis Pater
 theme: hugo-flex
 
 params:
-  color: rgb(0 122 52)  # Any color in CSS syntax
+  color: rgb(0 122 51)  # Any color in CSS syntax
   width: 64rem          # Any length in CSS syntax
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
     Except where otherwise noted, content on this site is licensed under a &#32;
