@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 48 jaar 2022'
-date: 2022-12-01
+date: 2022-12-02
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -19,6 +19,11 @@ tags:
 | woensdag | Spar-Diepvries | -20,0°C | &check; | &check; | | WPater |
 | woensdag | Spar-KW | 5,0°C | &check; | &check; | | WPater |
 | woensdag | Spar-Vers | 1,8°C | &check; | &check; | | WPater |
+| vrijdag | Drents-eitje | 3,9°C | &check; | &check; | | WPater |
+| vrijdag | Huls | 2,4°C | &check; | &check; | | WPater |
+| vrijdag | Spar-Diepvries | -21,3°C | &check; | &check; | | WPater |
+| vrijdag | Spar-KW | 4,9°C | &check; | &check; | | WPater |
+| vrijdag | Spar-Vers | 0,8°C | &check; | &check; | | WPater |
 
 ## Opmerkingen
 
