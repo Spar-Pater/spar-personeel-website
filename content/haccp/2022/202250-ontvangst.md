@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 50 jaar 2022'
-date: 2022-12-12
+date: 2022-12-13
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -15,6 +15,7 @@ tags:
 | maandag | Spar-Diepvries | -20,1°C | &check; | &check; | | DPater |
 | maandag | Spar-KW | 3,0°C | &check; | &check; | | DPater |
 | maandag | Spar-Vers | 1,7°C | &check; | &check; | | DPater |
+| dinsdag | Weidenaar | 1,4°C | &check; | &check; | | DPater |
 
 ## Opmerkingen
 
