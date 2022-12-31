@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 52 jaar 2022'
-date: 2022-12-30
+date: 2022-12-31
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
