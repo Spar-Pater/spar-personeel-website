@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 03 jaar 2023'
-date: 2023-01-20
+date: 2023-01-21
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
