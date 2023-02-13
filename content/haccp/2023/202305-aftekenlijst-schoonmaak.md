@@ -1,13 +1,13 @@
 ---
-title: 'Aftekenlijst schoonmaken in week 07 jaar 2023'
-date: 2023-02-13
+title: 'Aftekenlijst schoonmaken in week 05 jaar 2023'
+date: 2023-02-05
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
 tags:
     - '2023'
-    - '07'
-    - '202307'
+    - '05'
+    - '202305'
     - 'schoonmaaklijst'
 ---
 De schoonmaak taken kun je vinden op:  
@@ -17,31 +17,67 @@ De schoonmaak taken kun je vinden op:
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
+| woensdag | BK | | | |
+| donderdag | MvG | | | |
+| vrijdag | MvG | | | |
+| zaterdag | GR | | | |
+| zondag | FK | | | |
 
 ## AGF
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
+| woensdag | BK | | | |
+| donderdag | MvG | | | |
+| vrijdag | MvG | | | |
+| zaterdag | GR | | | |
+| zondag | FK | | | |
 
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
+| woensdag | BK | | | |
+| donderdag | MvG | | | |
+| vrijdag | MvG | | | |
+| zaterdag | GR | | | |
+| zondag | FK | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
+| woensdag | BK | | | |
+| donderdag | MvG | | | |
+| vrijdag | MvG | | | |
+| zaterdag | GR | | | |
+| zondag | FK | | | |
 
 ## Toilet
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BvD | | | |
+| woensdag | BK | | | |
+| donderdag | MvG | | | |
+| vrijdag | MvG | | | |
+| zaterdag | GR | | | |
+| zondag | FK | | | |
 
 ## Sappers
 | Dag | 10:00 | 13:00 | 16:00 | Einde dag | Bijzonderheden |
 |:---|:---|:---|:---|:---|:---|
 | maandag | BK | | | |
+| dinsdag | BK | | | |
+| woensdag | BK | | | |
+| donderdag | BK | | | |
+| vrijdag | BK | | | |
+| zaterdag | BK | | | |
+| zondag | BK | | | |
 
 ## Opmerkingen
 
