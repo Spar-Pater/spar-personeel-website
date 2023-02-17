@@ -15,14 +15,14 @@ In 2022 hebben de volgende candidaten hun certificaat bedrijfshulpverlener behaa
 *Van Harte gefeliciteerd*
 
 ## Wim Pater
-![Certificaat W. Pater](images/cert/20221025_10652_Pater_23_dgs-certificaat-2020.pdf-1.jpg)
+![Certificaat W. Pater](images/cert/20221025_10652_Pater_23_dgs-certificaat-2020.jpg)
 
 ## Dennis Pater
-![Certificaat D. Pater](images/cert/20221025_10651_Pater_23_dgs-certificaat-2020.pdf-1.jpg)
+![Certificaat D. Pater](images/cert/20221025_10651_Pater_23_dgs-certificaat-2020.jpg)
 
 ## Marloes van Goor
-![Certificaat M. van Goor](images/cert/20221025_13366_Goor_23_dgs-certificaat-2020.pdf-1.jpg)
+![Certificaat M. van Goor](images/cert/20221025_13366_Goor_23_dgs-certificaat-2020.jpg)
 
 ## Bianca van Draanen
-![Certificaat B. van Draanen](images/cert/20221025_13367_Draanen_23_dgs-certificaat-2020.pdf-1.jpg)
+![Certificaat B. van Draanen](images/cert/20221025_13367_Draanen_23_dgs-certificaat-2020.jpg)
 
