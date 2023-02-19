@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van beemster-broodje week 07 jaar 2023'
-date: 2023-02-18
+date: 2023-02-19
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
