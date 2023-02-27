@@ -1,7 +1,7 @@
 ---
-title: 'Certificaten Soms moet je nee verkopen'
+title: 'Diploma drogist'
 date: 2014-12-10
-description: 'Certificaten behaald door D. Pater'
+description: 'Diploma drogist'
 categories:
     - 'Drogist'
     - 'Certificaat'
