@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van curryworst week 10 jaar 2023'
-date: 2023-03-08
+date: 2023-03-09
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
