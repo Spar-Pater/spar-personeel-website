@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van appelflap week 11 jaar 2023'
-date: 2023-03-14
+date: 2023-03-15
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
