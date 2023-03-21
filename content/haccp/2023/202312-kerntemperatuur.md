@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van appeltaart week 12 jaar 2023'
-date: 2023-03-20
+date: 2023-03-21
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
