@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van pecannotenkoek week 13 jaar 2023'
-date: 2023-03-29
+date: 2023-03-30
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
