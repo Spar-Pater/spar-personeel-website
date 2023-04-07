@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van koffiebroodje week 14 jaar 2023'
-date: 2023-04-06
+date: 2023-04-07
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
