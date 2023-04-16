@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van kaiserbroodje week 15 jaar 2023'
-date: 2023-04-15
+date: 2023-04-16
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
