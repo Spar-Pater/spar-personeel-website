@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van pistolet week 16 jaar 2023'
-date: 2023-04-19
+date: 2023-04-20
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
