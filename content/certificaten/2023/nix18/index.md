@@ -25,3 +25,7 @@ In 2022 hebben de volgende candidaten hun certificaat soms moet je nee verkopen 
 
 ## Querelle Romer
 ![Certificaat Q. Rome](images/cert/qromer.jpg)
+
+
+## Giselle Romer
+![Certificaat G. Rome](images/cert/gromer.jpg)
