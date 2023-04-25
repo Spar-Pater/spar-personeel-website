@@ -1,7 +1,7 @@
 ---
 title: 'Certificaten Soms moet je nee verkopen'
 date: 2023-02-27
-description: 'Certificaten behaald door D. Pater, E. van Oosten, N. Katuin en Q. Romer'
+description: 'Certificaten behaald door D. Pater, E. van Oosten, N. Katuin, Q. Romer en  G Romer
 categories:
     - 'Nix18'
     - 'Certificaat'
