@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van ciabatta week 17 jaar 2023'
-date: 2023-04-25
+date: 2023-04-26
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
