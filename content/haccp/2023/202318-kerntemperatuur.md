@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van tijgerbol week 18 jaar 2023'
-date: 2023-05-04
+date: 2023-05-05
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
