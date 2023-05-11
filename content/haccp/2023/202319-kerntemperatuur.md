@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van baguelino week 19 jaar 2023'
-date: 2023-05-10
+date: 2023-05-11
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
