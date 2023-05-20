@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van maisbroodje week 20 jaar 2023'
-date: 2023-05-19
+date: 2023-05-20
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
