@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van stokbrood week 21 jaar 2023'
-date: 2023-05-27
+date: 2023-05-28
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
