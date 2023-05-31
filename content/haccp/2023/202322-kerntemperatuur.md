@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van boerenbol week 22 jaar 2023'
-date: 2023-05-30
+date: 2023-05-31
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
