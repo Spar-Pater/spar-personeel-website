@@ -1,6 +1,6 @@
 ---
 title: 'Ontvangst goederen 23 jaar 2023'
-date: 2023-06-05
+date: 2023-06-06
 description: 'Ontvangst logboek'
 categories:
     - 'HACCP'
@@ -15,6 +15,7 @@ tags:
 | maandag | Spar-Diepvries | -20,7°C | &check; | &check; | | DPater |
 | maandag | Spar-KW | 4,2°C | &check; | &check; | | DPater |
 | maandag | Spar-Vers | 1,3°C | &check; | &check; | | DPater |
+| dinsdag | Weidenaar | 0,7°C | &check; | &check; | | DPater |
 
 ## Opmerkingen
 
