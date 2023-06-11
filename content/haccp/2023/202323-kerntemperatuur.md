@@ -1,6 +1,6 @@
 ---
 title: 'Validatie kern temperatuur van sparretjes week 23 jaar 2023'
-date: 2023-06-10
+date: 2023-06-11
 description: 'Kerntemperatuur logboek'
 categories:
     - 'HACCP'
