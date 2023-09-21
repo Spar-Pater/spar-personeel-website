@@ -1,11 +1,11 @@
-name: CI
-
+name: Update website
 on:
   schedule:
   - cron: "0 17 * * *"
   workflow_dispatch:
+
 jobs:
-  build:
+  schedule:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
