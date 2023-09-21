@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: "finnp/create-file-action@master"
         env:
-          FILE_NAME: "content/testfile"
+          FILE_NAME: "content/testfile.md"
           FILE_DATA: "file content"
 
       # Runs a set of commands using the runners shell
