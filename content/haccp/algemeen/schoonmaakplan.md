@@ -100,4 +100,3 @@ W = Wekelijks
 M = Maandelijks  
 J = Jaarlijks (indien noodzakelijk, maar minimaal 1 keer per jaar)  
 
-[dennis]( {{<ref "haccp/2022/202213-ontvangst">}})
