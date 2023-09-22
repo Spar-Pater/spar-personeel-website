@@ -6,8 +6,6 @@ categories:
     - 'HACCP'
 tags:
     - '2023'
-    - '38'
-    - '202338'
     - 'Ontvangst'
 ---
 | Dag | Leverancier | Temp | tht OK | verpakking OK | Actie bij afwijking | Controle door |

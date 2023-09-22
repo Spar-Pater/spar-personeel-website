@@ -6,8 +6,6 @@ categories:
     - 'HACCP'
 tags:
     - '2023'
-    - '38'
-    - '202338'
     - 'schoonmaaklijst'
 ---
 De schoonmaak taken kun je vinden op:  
