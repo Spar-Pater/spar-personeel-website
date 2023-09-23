@@ -128,7 +128,7 @@ menu:
       weight: 30
     - identifier: haccp
       name: haccp
-      url: /haccp/
+      url: /haccp/2023/
       weight: 40
     - identifier: Spar Pater
       name: SparPater.nl
