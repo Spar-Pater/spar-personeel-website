@@ -98,7 +98,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/Spar-Pater/spar-haccp-website/content"
+    URL: "https://github.com/Spar-Pater/spar-haccp-website/tree/main/content"
     Text: "Verander dit document" # edit text
     appendFilePath: true # to append file path to Edit link
 
