@@ -1,6 +1,6 @@
 sitename: "Spar Pater"
 baseURL: "/"
-languageCode: en-us
+languageCode: nl-nl
 title: "HACCP Spar Pater"
 author: Dennis Pater
 theme: hugo-flex
