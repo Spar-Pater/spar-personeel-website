@@ -5,45 +5,142 @@ title: "HACCP Spar Pater"
 author: Dennis Pater
 theme: hugo-flex
 
-params:
-  color: rgb(0 122 51)  # Any color in CSS syntax
-  width: 64rem          # Any length in CSS syntax
-  footer: >-            # HTML spaces (&#32;) are needed before HTML elements
-    Except where otherwise noted, content on this site is licensed under a &#32;
-    <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative
-    Commons Attribution 4.0 International License</a>.
-  rss: To subscribe to this RSS feed, copy its address and paste it into your
-    favorite feed reader.
-  summaries: false      # Set to true to show summaries of posts on homepage
-  divider: \a0          # Set to false to remove divider below posts on homepage
-  schema: false         # Set to true to add Schema.org metadata
-  opengraph: false      # Set to true to add Open Graph metadata
-  twittercards: false   # Set to true to add Twitter Cards metadata
-  utterances:
-    repo:               # Set to Utterances repo URL to add Utterances comments
-    issueterm: pathname
-    theme: github-light
-  netlify:
-    honeypot: false     # Set to true to add honeypot field in contact form
-    recaptcha: false    # Set to true to add recaptcha challenge in contact form
-  # css:                # Uncomment to add custom CSS from the assets directory
-  #   - css/foo.css
-  #   - bar.css
-  # js:                 # Uncomment to add custom JS from the assets directory
-  #   - js/foo.js
-  #   - bar.js
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Spar Pater
+  description: "HACCP website voor Spar Pater"
+  keywords: [haccp]
+  author: Dennis Pater
+  # author: ["Me", "You"] # multiple authors
+  images: [""]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    #favicon: "<link / abs url>"
+    #favicon16x16: "<link / abs url>"
+    #favicon32x32: "<link / abs url>"
+    #apple_touch_icon: "<link / abs url>"
+    #safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  #socialIcons:
+  #  - name: twitter
+  #    url: "https://twitter.com/"
+  #  - name: stackoverflow
+  #    url: "https://stackoverflow.com"
+  #  - name: github
+  #    url: "https://github.com/"
+
+  #analytics:
+  #  google:
+  #    SiteVerificationTag: "XYZabc"
+  #  bing:
+  #    SiteVerificationTag: "XYZabc"
+  #  yandex:
+  #    SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  #editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 menu:
-  nav:
-  - name: HACCP
-    url: haccp/
-    weight: 1
-  - name: Certificaten
-    url: certificaten/
-    weight: 2
-  - name: Tags
-    url: tags/
-    weight: 3
-  - name: Categories
-    url: categories/
-    weight: 4
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: HACCP
+      name: HACCP
+      url: haccp/
+      weight: 26
+    - name: Certificaten
+      url: certificaten/
+      weight: 27
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai:
