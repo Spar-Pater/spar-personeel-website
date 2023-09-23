@@ -1,6 +1,6 @@
 baseURL: "https://haccp.sparpater.nl"
 title: HACCP Spar Pater
-paginate: 5
+paginate: 25
 theme: PaperMod
 
 enableRobotsTXT: false
