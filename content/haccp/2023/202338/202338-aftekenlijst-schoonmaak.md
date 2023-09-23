@@ -34,12 +34,12 @@ De schoonmaak taken kun je vinden op:
 ## Bakkerij
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
 |:---|:---|:---|:---|:---|
-| maandag | BK | | | |
-| dinsdag | BvD | | | |
-| woensdag | BK | | | |
-| donderdag | MvG | | | |
-| vrijdag | MvG | | | |
-| zaterdag | GR | | | |
+| maandag | YP | | | |
+| dinsdag | YP | | | |
+| woensdag | YP | | | |
+| donderdag | YP | | | |
+| vrijdag | YP | | | |
+| zaterdag | YP | | | |
 
 ## Kantine en garderobe
 | Dag | Dagelijks | Weekelijks | Periodiek | Opmerking |
