@@ -59,17 +59,17 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    title: Spar Pater
+    subtitle: "HACCP website voor Spar Pater"
+    #imageUrl: "<img location>"
+    #imageWidth: 120
+    #imageHeight: 120
+    #imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Certificaten
+        url: certificaten
+      - name: HACCP
+        url: haccp
 
   # home-info mode
   homeInfoParams:
@@ -77,20 +77,20 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    #- name: twitter
+    #  url: "https://twitter.com/"
+    #- name: stackoverflow
+    #  url: "https://stackoverflow.com"
+    #- name: github
+    #  url: "https://github.com/"
 
   analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+    #google:
+    #  SiteVerificationTag: "XYZabc"
+    #bing:
+    #  SiteVerificationTag: "XYZabc"
+    #yandex:
+    #  SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -98,9 +98,9 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    #URL: "https://github.com/<path_to_repo>/content"
+    #Text: "Suggest Changes" # edit text
+    #appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
