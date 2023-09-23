@@ -26,7 +26,7 @@
 
   {{ $paginator := .Scratch.Get "paginator" }}
 
-  {{ range (.paginator 10).Pages }}
+  {{ range $paginator.Pages }}
     <article>
       {{ partial "heading.html" . }}
       {{ if site.Params.summaries }}
