@@ -2,7 +2,7 @@
 
   {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 
-  {{ $paginator := (.Paginate 5) $pages }}
+  {{ $paginator := (.Paginate ( first 10 $pages.ByDate ))  $pages }}
 
   {{ range $paginator.Pages }}
     {{ with .Content }}{{ end }}
