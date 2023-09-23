@@ -122,10 +122,18 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: certificaten
+      name: certificaten
+      url: /certificaten/
       weight: 30
+    - identifier: haccp
+      name: haccp
+      url: /haccp/
+      weight: 40
+    - identifier: Spar Pater
+      name: SparPater.nl
+      url: https://sparpater.nl
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
