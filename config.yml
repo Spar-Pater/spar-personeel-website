@@ -18,15 +18,8 @@ languages:
   nl:
     disabled: false
     languageCode: "nl-NL"
-    languageDirection: "ltr"
+    languageDirection: "content"
     languageName: "Nederlands"
-    title: ""
-    weight: 0
-  en:
-    disabled: false
-    languageCode: "en-US"
-    languageDirection: "ltr"
-    languageName: "Engels"
     title: ""
     weight: 0
     
