@@ -13,12 +13,12 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
-  
+
+defaultContentLanguage: nl
 languages:
   nl:
     disabled: false
     languageCode: "nl-NL"
-    languageDirection: "content"
     languageName: "Nederlands"
     title: ""
     weight: 0
