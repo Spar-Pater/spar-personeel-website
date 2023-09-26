@@ -17,9 +17,16 @@ minify:
 languages:
   nl:
     disabled: false
-    languageCode: ""
-    languageDirection: ""
-    languageName: ""
+    languageCode: "nl-NL"
+    languageDirection: "ltr"
+    languageName: "Nederlands"
+    title: ""
+    weight: 0
+  en:
+    disabled: false
+    languageCode: "en-US"
+    languageDirection: "ltr"
+    languageName: "Engels"
     title: ""
     weight: 0
     
