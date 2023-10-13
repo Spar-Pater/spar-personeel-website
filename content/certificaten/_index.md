@@ -7,7 +7,13 @@ categories:
     - 'Certificaat'
 ---
 De volgende subcategorien zijn er:
-- [Nix18](#Nix18)
+[Nix18](#Nix18)
+[Keurmerken](#Keurmerken)
+[Drogist](#Drogist)
+[BHV](#BHV)
+
+[Voor als je ze liever op datum ziet](#certificaten-op-datum-behaald)
+
 ## Certificaten per categorie ingedeeld.
 {{< listfiles path="certificaten/documenten" type="pdf" >}}
 
