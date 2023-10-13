@@ -13,7 +13,7 @@
 		{{ $ext		:= default "-" ($type)}}
 		{{ if (fileExists $filepath)}}
 		<section class="file__list_sub">
-			<h3>{{ .Name }}</h3>
+			<h3 id="{{ .Name }}">{{ .Name }}</h3>
 			<ul class="files">
 				{{- range $files }}
 					{{ if (and (ne (substr .Name 0 1) "_") (not .IsDir)) }}{{ $f := printf "%s/%s/%s" $path $subname .Name }}
