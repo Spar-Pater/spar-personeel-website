@@ -7,4 +7,4 @@ categories:
     - 'Certificaat'
 ---
 
-{{< listfiles path="certificaten/documenten" type="pdf" >}}
+{{< listfiles path="certificaten/documenten" type="*" >}}
