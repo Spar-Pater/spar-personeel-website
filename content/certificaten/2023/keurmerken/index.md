@@ -13,5 +13,5 @@ tags:
 
 
 ## Bakkerij Beukeveld 
-![Certificaat Bakkerij Beukeveld](images/cert/certificaatbakkerijbeukeveld-1.jpg)
+![Certificaat Bakkerij Beukeveld](images/cert/certificaat-bakkerij-beukeveld-vof.jpg)
 
