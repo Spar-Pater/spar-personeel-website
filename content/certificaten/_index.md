@@ -6,7 +6,8 @@ categories:
     - 'Nix18'
     - 'Certificaat'
 ---
-
+De volgende subcategorien zijn er:
+- [Nix18](#Nix18)
 ## Certificaten per categorie ingedeeld.
 {{< listfiles path="certificaten/documenten" type="pdf" >}}
 
