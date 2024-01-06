@@ -82,8 +82,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Spar Pater"
+    Content: "Informatie die alleen bedoeld is voor het personeel van Spar Pater."
 
   socialIcons:
     #- name: twitter
