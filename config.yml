@@ -1,5 +1,5 @@
-baseURL: "https://haccp.sparpater.nl"
-title: HACCP Spar Pater
+baseURL: "https://personeel.sparpater.nl"
+title: Personeel Spar Pater
 paginate: 25
 theme: PaperMod
 
@@ -26,12 +26,12 @@ languages:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Spar Pater
-  description: "HACCP website voor Spar Pater"
-  keywords: [HACCP]
+  description: "Spar Pater informatie voor personeel"
+  keywords: [Personeel]
   author: Dennis Pater
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "2 januari 2006"
+  DateFormat: "2 januari 2024"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -67,7 +67,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: Spar Pater
     subtitle: "HACCP website voor Spar Pater"
     #imageUrl: "<img location>"
@@ -107,7 +107,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/Spar-Pater/spar-haccp-website/tree/main/content"
+    URL: "https://github.com/Spar-Pater/spar-personeel-website/tree/main/content"
     Text: "Verander dit document" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -123,26 +123,34 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: nieuws
+      name: nieuws
+      url: /nieuws/
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: certificaten
-      name: certificaten
-      url: /certificaten/
-      weight: 30
+    - identifier: rooster
+      name: rooster
+      url: https://sparpater.nl/rooster
+      weight: 40
+    - identifier: loonstrookjes
+      name: loonstrookjes
+      url: https://sparpater.nl/loon
+      weight: 41
     - identifier: haccp
       name: haccp
-      url: /haccp/
-      weight: 40
+      url: https://haccp.sparpater.nl/
+      weight: 50
     - identifier: Spar Pater
       name: SparPater.nl
       url: https://sparpater.nl
-      weight: 50
+      weight: 51
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
