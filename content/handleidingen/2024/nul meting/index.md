@@ -3,7 +3,7 @@ title: "Nul meting"
 description: "Hoe voor je een nul meting uit"
 date: 2024-01-01T08:00:00+02:00
 cover:
-    image: "cover_saba.jpg"
+    image: "saba_cover.jpg"
     relative: true
     #alt: 
     #caption:
@@ -16,23 +16,16 @@ tags:
 ---
 
 ## Waarom een 'nul meting'
+Een nulmeting kan worden toegepast om de huidige voorraadniveaus te beoordelen voordat je een nieuwe bestelling plaatst. Dit helpt om over- of onderbestellingen te voorkomen, waardoor je middelen effectiever kunt beheren.
 
-
-
-Om deze hoge standaarden te handhaven en ons team verder te versterken, nodigen we je uit om de "Secret View" cursus te volgen op [https://test.nl]. Deze cursus is ontworpen om de deelnemers te voorzien van de nodige kennis en vaardigheden om succesvolle resultaten te behalen in geheime beoordelingen.
-
-Waarom deelnemen aan de "Secret View" Cursus?
-
-    Expert Begeleiding: Leer van experts op het gebied van geheime beoordelingen die je begeleiden bij elke stap.
-
-    Praktische Scenario's: Oefen met realistische scenario's die je voorbereiden op diverse uitdagingen in geheime beoordelingen.
-
-    Geavanceerde Technieken: Ontdek geavanceerde technieken en strategieën om de hoogst mogelijke scores te behalen.
-
-    Netwerk met Peers: Verbind met gelijkgestemde professionals en deel ervaringen en best practices.
-
-Hoe je je kunt aanmelden:
-
-Bezoek [https://test.nl] en schrijf je in voor de "Secret View" cursus. Vul het registratieformulier in en bereid je voor op een boeiende en leerzame ervaring.
-
-Bedankt voor je toewijding aan kwaliteit en geheimhouding. We kijken ernaar uit om samen met jou deze nieuwe stap in ons streven naar excellentie te zetten.
+## Hoe voor je een 'nul meting' uit
+1. Op de homescherm op de OET ga naar de tegel 'SABA'.
+2. Indien nodig login in met Gebruikersnaam '4235' en Wachtwoord 'Exloo'.
+3. Druk dan op 'voorraad' (Deze staat onderin het scherm).
+4. Scan het gewenste artikel of schapkaartje.
+5. Hier zie je een aantal dingen staan.
+    1. Verwacht aantal: Deze aantal verwacht hij dat op voorraad is. (Dit kan ook als gewicht weergegeven worden. Dit gewicht is in kg).
+    2. MV1 en MV2: Deze getallen geven weer hoeveel hij minimaal op voorraad wil hebben
+    3. Scrol verder naar beneden. In het tabel staat als er iets onderweg is of gereserveerd. (Er komt dan ook een uitroepteken in het scherm te staan). Dit staat er alleen als het wordt of is geleverd.
+6. Tel het schap en voorraad (magazijn, koelcel en diepvriescel) en haal gereserveerd en onderweg hieraf. (Deze telt SABA later er zelf bij op).
+7. Bij grote verschillen controleer het magazijn en ligt Wim, Sonja of Dennis in.
