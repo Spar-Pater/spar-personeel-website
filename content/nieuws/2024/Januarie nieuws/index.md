@@ -8,9 +8,9 @@ cover:
     #alt: 
     #caption: 
 Categorieën:
-    - nieuwsbericht
+    nieuwsbericht
 Tags:
-    - nix18
+    nix18
 ---
 
 Om deze hoge standaarden te handhaven en ons team verder te versterken, nodigen we je uit om de "Secret View" cursus te volgen op [https://test.nl]. Deze cursus is ontworpen om de deelnemers te voorzien van de nodige kennis en vaardigheden om succesvolle resultaten te behalen in geheime beoordelingen.
