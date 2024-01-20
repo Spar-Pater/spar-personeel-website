@@ -1,14 +1,14 @@
 ---
-title: 'Uitnodiging voor de "Soms moet je nee verkopen" Cursus na 100% Score Bereikt!'
-description: 'We zijn verheugd om met enthousiasme aan te kondigen dat ons team onlangs een uitzonderlijke 100% score heeft behaald bij de controle via "Secret View". Dit succes onderstreept onze toewijding aan kwaliteit en geheimhouding.'
+title: "Uitnodiging voor de \"Soms moet je nee verkopen\" Cursus na 100% Score Bereikt!"
+description: "We zijn verheugd om met enthousiasme aan te kondigen dat ons team onlangs een uitzonderlijke 100% score heeft behaald bij de controle via \"Secret View\". Dit succes onderstreept onze toewijding aan kwaliteit en geheimhouding."
 date: 2024-02-01T08:00:00+02:00
 cover:
-    image: '2024 Ronde1 View survey - Secret Collect.jpg'
+    image: "2024 Ronde1 View survey - Secret Collect.jpg"
     relative: true
 categories:
-    - 'nieuwsbericht'
+    - "nieuwsbericht"
 tags:
-    - 'nix18'
+    - "nix18"
 ---
 
 Om deze hoge standaarden te handhaven en ons team verder te versterken, nodigen we je uit om de "Secret View" cursus te volgen op [https://test.nl]. Deze cursus is ontworpen om de deelnemers te voorzien van de nodige kennis en vaardigheden om succesvolle resultaten te behalen in geheime beoordelingen.
