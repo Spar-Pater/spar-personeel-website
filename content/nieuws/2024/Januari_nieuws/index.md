@@ -1,7 +1,7 @@
 ---
 title: "Uitnodiging voor de 'Soms moet je nee verkopen' Cursus na 100% Score Bereikt!"
 description: "We zijn verheugd om met enthousiasme aan te kondigen dat ons team onlangs een uitzonderlijke 100% score heeft behaald bij de controle via 'Secret View'. Dit succes onderstreept onze toewijding aan kwaliteit en geheimhouding."
-date: 2024-02-01T08:00:00+02:00
+date: 20240107
 cover:
     image: "2024 Ronde1 View survey - Secret Collect.jpg"
     relative: true
