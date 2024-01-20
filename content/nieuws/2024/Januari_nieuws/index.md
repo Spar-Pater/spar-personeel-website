@@ -5,11 +5,9 @@ date: 2024-02-01T08:00:00+02:00
 cover:
     image: "2024 Ronde1 View survey - Secret Collect.jpg"
     relative: true
-    #alt: 
-    #caption: 
-Categorieën:
+categories:
     - 'nieuwsbericht'
-Tags:
+tags:
     - 'nix18'
 ---
 
